@@ -1,0 +1,13 @@
+2021-11-20 14:22:06,491  INFO [main] BigSmall:61 - landing at home page
+2021-11-20 14:22:10,553  INFO [main] BigSmall:66 - clicked on all of it button
+2021-11-20 14:22:15,327  INFO [main] BigSmall:85 - enterd product name
+2021-11-20 14:22:35,791  INFO [main] BigSmall:101 - selected search product
+2021-11-20 14:22:41,196  INFO [main] BigSmall:115 - persnolaized name is added 
+2021-11-20 14:22:58,163  INFO [main] BigSmall:133 - clicked on wishlist
+2021-11-20 14:23:01,362  INFO [main] BigSmall:140 - clicked on gift card
+2021-11-20 14:23:01,891  INFO [main] BigSmall:142 - price card is selected
+2021-11-20 14:23:01,966  INFO [main] BigSmall:144 - quantity is added to the cart
+2021-11-20 14:23:02,098  INFO [main] BigSmall:151 - entered pincode
+2021-11-20 14:23:02,222  INFO [main] BigSmall:153 - check button is clicked
+2021-11-20 14:23:02,267  INFO [main] BigSmall:156 - text is displayed
+2021-11-20 14:23:13,095  INFO [main] BigSmall:189 - Submitted successfully

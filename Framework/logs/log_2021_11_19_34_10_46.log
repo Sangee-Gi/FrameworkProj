@@ -1,0 +1,9 @@
+2021-11-19 10:34:58,799  INFO [main] BigSmall:56 - landing at home page
+2021-11-19 10:35:02,073  INFO [main] BigSmall:61 - clicked on all of it button
+2021-11-19 10:35:02,553  INFO [main] BigSmall:72 - clicked on wishlist
+2021-11-19 10:35:10,840  INFO [main] BigSmall:91 - enterd product name
+2021-11-19 10:35:27,002  INFO [main] BigSmall:107 - selected search product
+2021-11-19 10:35:32,210  INFO [main] BigSmall:121 - persnolaized name is added 
+2021-11-19 10:35:36,604  INFO [main] BigSmall:135 - clicked on gift card
+2021-11-19 10:35:36,962  INFO [main] BigSmall:137 - price card is selected
+2021-11-19 10:35:37,214  INFO [main] BigSmall:139 - quantity is added to the cart

@@ -1,0 +1,7 @@
+2021-11-16 12:40:50,420  INFO [main] BigSmall:41 - landing at home page
+2021-11-16 12:40:54,887  INFO [main] BigSmall:46 - clicked on sign button
+2021-11-16 12:40:58,904  INFO [main] BigSmall:49 - clicked on create button
+2021-11-16 12:40:59,804  INFO [main] BigSmall:61 -  firstname and lastname entered
+2021-11-16 12:41:00,199  INFO [main] BigSmall:63 - email entered
+2021-11-16 12:41:00,541  INFO [main] BigSmall:65 - entered password
+2021-11-16 12:41:04,175  INFO [main] BigSmall:67 - account created

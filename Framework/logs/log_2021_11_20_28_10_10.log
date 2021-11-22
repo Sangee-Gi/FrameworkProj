@@ -1,0 +1,7 @@
+2021-11-20 22:28:25,028  INFO [main] BigSmall:64 - <<<-navigated to url->>>
+2021-11-20 22:28:26,803  INFO [main] BigSmall:94 - landing at home page
+2021-11-20 22:28:32,504  INFO [main] BigSmall:99 - clicked on all of it button
+2021-11-20 22:28:36,653  INFO [main] BigSmall:118 - enterd product name
+2021-11-20 22:28:50,740  INFO [main] BigSmall:134 - selected search product
+2021-11-20 22:28:56,766  INFO [main] BigSmall:148 - persnolaized name is added 
+2021-11-20 22:29:01,175  INFO [main] BigSmall:166 - clicked on wishlist
